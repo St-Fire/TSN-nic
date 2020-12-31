@@ -74,3 +74,40 @@ compliant to IEEE 802.1Qci
 		+ Enable TSN on Industrial Automation Platforms
           Fieldbus over TSN Gateway
           Converge IT & OT Networks
+
++ **RELY-TSN-PCIe**
+	+ **Communication**
+		+  2x Ethernet port 
+		+ Media options (SFP cages):
+			+ 10/100/1000Base-T
+			+ 1000Base-X
+			+ 100Base-FX • RSTP IEEE802.1w
+		+ LLDP support 
+		+ VLAN support 
+		+ Ethernet type based or IEEE 802.1P Traffic
+prioritization 
+		+ 1 PPS output  
+		+ PCIex1. Seamless integration on old Legacy PCI
+Systems through optional adapter
+	+ **TSN features**
+		+ IEEE 802.1AS - Timing and Synchronization 
+		+ IEEE 802.1Qbv - Enhancements for Scheduled Traffic 
+		+ IEEE 802.1Qav - Forwarding and Queuing
+Enhancements for Time-Sensitive Streams 
+		+ IEEE 802.1Qcc – Enhancements for Stream Reservation Protocol 
+		+ IEEE 802.1Qci* – Per-Stream Filtering and Policing 
+		+ IEEE 802.1CB* – Frame Replication and Elimination for Reliability 
+		+ IEEE 802.1Qbu* & IEEE 802.3br* – Frame Replication and Elimination for Reliability
+	+ ** Software features **
+		+  Ethernet network drivers available for most OS:
+			+ Linux, Windows, VxWorks, etc.
+	+ **Processing performance**
+		+ On-board UltraScale™ FPGA for high-speed network
+switching and PTP timestamping 
+		+ Multi-core CPU unit to support autonomous software
+applications
+	+ **Configuration and Management**
+		+  SNMPv3, SSH, Netconf support
+		+ Accessible through HTTP(S)
+		+ Configuration profiles and Firmware updates
+		+ Real-time network monitoring
