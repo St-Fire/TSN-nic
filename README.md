@@ -76,6 +76,7 @@ compliant to IEEE 802.1Qci
           Converge IT & OT Networks
 
 + **RELY-TSN-PCIe**
+	+ https://www.hkaco.com/embeded/relyum/products/RELY-PCIe-NIC-Family/rely-tsn-lp-pcie.html
 	+ **Communication**
 		+  2x Ethernet port 
 		+ Media options (SFP cages):
