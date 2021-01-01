@@ -1,14 +1,13 @@
-### TSN NIC
+# TSN NIC
 
-+ **PCIE-0400-TSN**
++ ###PCIE-0400-TSN
 	+ **kontron**
 		+ https://www.kontron.com/downloads/datasheets/p/pcie-0400-tsn_20180227_datasheet.pdf?product=151637
+	+ ## hardware
 	+ **INTERFACES**
 		+ 4 port 10/100/1000 Ethernet, RJ45
 Host Interface PCIe Gen 1 x4
 LEDs for Link, Speed, activity
-	+ **PROCESSOR** 
-		+ Intel® Cyclone V, fi eld upgradeable
 	+ **EMC**
 		+ EN55022 class B
 	+ **SHOCK**
@@ -23,26 +22,35 @@ LEDs for Link, Speed, activity
 	+ **HUMIDITY**
 	+ **MTBF**
 		+  50.000 h (tbc)
+	+ ## software
+	+ **PROCESSOR** 
+		+ Intel® Cyclone V, fi eld upgradeable
 	+ **SOFTWARE SUPPORT**
 		+ Linux Kernel device drivers, TSN Software stacks
 	+ **VERIFIED OS**
 		+ Linux
 	+ **SUPPORTED TSN STANDARDS IEEE-802.1 TSN**
 		+ - 802.1 as(rev): timing and synchronization
-   - 802.1 Qbv: traffi c scheduling
+   - 802.1 Qbv: traffic scheduling
    - 802.1 Qbu: frame preemption
    - 802.1 Qcc: Stream Reservation Protocol enhancements
    - 802.1 CB, Qci, …: N/A – will be provided per update
 
-+ **AXM57104**
++ ### AXM57104
 	+ **Asix** 
 		+ https://www.asix.com.tw/en/product/IndustrialEthernet/TSN/AXM57104
+	+ ## hardware
 	+ **Compliant to PCI Express base spec. v2.1 Gen1**
 	+ **PCIe Network Interface Controller (NIC)**
 		+ Gigabit Ethernet Network Interface Controller
           Ethernet packet through Bus-Master DMA
           Unicast/multicast/broadcast filters
           Support Legacy and MSI interrupt
+	+ **32 Synchronous I/O pins and one I2C master**
+	+ **One Pulse Per Second (PPS) output**
+	+ **Support PCI Express x1 slot, Standard profile bracket**
+	+ **Operating Temperature Range: -40 to +85°C**
+	+ ##software
 	+ **TSN Gigabit Ethernet Switch**
 		+ Support TSN Timing and Synchronization for Time-Sensitive
 Applications compliant to IEEE 802.1AS-Rev/AS, and IEEE
@@ -66,23 +74,25 @@ compliant to IEEE 802.1Qci
 		+ 16 Kbytes packet buffer per port
 	+ **FPGA hard-core field upgradable via In Application Programming (IAP) for TSN standards evolution**
 	+ **Support Board Support Package (BSP)**
-	+ **32 Synchronous I/O pins and one I2C master**
-	+ **One Pulse Per Second (PPS) output**
-	+ **Support PCI Express x1 slot, Standard profile bracket**
-	+ **Operating Temperature Range: -40 to +85°C**
 	+ **Target Applications**
 		+ Enable TSN on Industrial Automation Platforms
           Fieldbus over TSN Gateway
           Converge IT & OT Networks
 
-+ **RELY-TSN-PCIe**
-	+ https://www.hkaco.com/embeded/relyum/products/RELY-PCIe-NIC-Family/rely-tsn-lp-pcie.html
++ ###RELY-TSN-PCIe
+	+ **Relyum**
+		+ https://www.hkaco.com/embeded/relyum/products/RELY-PCIe-NIC-Family/rely-tsn-lp-pcie.html
+	+ ##hardware
 	+ **Communication**
 		+  2x Ethernet port 
 		+ Media options (SFP cages):
 			+ 10/100/1000Base-T
 			+ 1000Base-X
 			+ 100Base-FX • RSTP IEEE802.1w
+	+ **Processing performance**
+		+ On-board UltraScale™ FPGA for high-speed network switching
+	+ ##software
+	+ **Communication**
 		+ LLDP support 
 		+ VLAN support 
 		+ Ethernet type based or IEEE 802.1P Traffic
@@ -99,12 +109,11 @@ Enhancements for Time-Sensitive Streams
 		+ IEEE 802.1Qci* – Per-Stream Filtering and Policing 
 		+ IEEE 802.1CB* – Frame Replication and Elimination for Reliability 
 		+ IEEE 802.1Qbu* & IEEE 802.3br* – Frame Replication and Elimination for Reliability
-	+ **Software features**
+	+ ** Software features **
 		+  Ethernet network drivers available for most OS:
 			+ Linux, Windows, VxWorks, etc.
 	+ **Processing performance**
-		+ On-board UltraScale™ FPGA for high-speed network
-switching and PTP timestamping 
+		+ PTP timestamping 
 		+ Multi-core CPU unit to support autonomous software
 applications
 	+ **Configuration and Management**
