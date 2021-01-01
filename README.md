@@ -2,7 +2,7 @@
 ---
 + ### PCIE-0400-TSN
 	+ **kontron**
-		
+		+ 德國公司
 		+ https://www.kontron.com/products/systems/ethernet-solutions/network-interfaces-tsn/pcie-0400-tsn-network-interface-card.html
 	+ ## hardware
 	+ **INTERFACES**
@@ -43,6 +43,7 @@ LEDs for Link, Speed, activity
 
 + ### AXM57104
 	+ **Asix** 
+		+ 台灣公司
 		+ https://www.asix.com.tw/en/product/IndustrialEthernet/TSN/AXM57104
 	+ ## hardware
 	+ **Compliant to PCI Express base spec. v2.1 Gen1**
@@ -86,6 +87,7 @@ compliant to IEEE 802.1Qci
 ---
 + ### RELY-TSN-PCIe
 	+ **hongke**
+		+ 中國公司
 		+ https://www.hkaco.com/embeded/relyum/products/RELY-PCIe-NIC-Family/rely-tsn-lp-pcie.html
 	+ ## hardware
 	+ **Communication**
