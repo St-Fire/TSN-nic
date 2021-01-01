@@ -33,11 +33,11 @@ LEDs for Link, Speed, activity
 	+ **VERIFIED OS**
 		+ Linux
 	+ **SUPPORTED TSN STANDARDS IEEE-802.1 TSN**
-		+ - 802.1 as(rev): timing and synchronization
-   - 802.1 Qbv: traffic scheduling
-   - 802.1 Qbu: frame preemption
-   - 802.1 Qcc: Stream Reservation Protocol enhancements
-   - 802.1 CB, Qci, …: N/A – will be provided per update
+		+ 802.1 as(rev): timing and synchronization
+   		+ 802.1 Qbv: traffic scheduling
+  		+ 802.1 Qbu: frame preemption
+   		+ 802.1 Qcc: Stream Reservation Protocol enhancements
+   		+ 802.1 CB, Qci, …: N/A – will be provided per update
 
 + ### AXM57104
 	+ **Asix** 
