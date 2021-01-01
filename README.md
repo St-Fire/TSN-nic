@@ -38,6 +38,7 @@ LEDs for Link, Speed, activity
   		+ 802.1 Qbu: frame preemption
    		+ 802.1 Qcc: Stream Reservation Protocol enhancements
    		+ 802.1 CB, Qci, …: N/A – will be provided per update
+---
 
 + ### AXM57104
 	+ **Asix** 
@@ -81,7 +82,7 @@ compliant to IEEE 802.1Qci
 		+ Enable TSN on Industrial Automation Platforms
           Fieldbus over TSN Gateway
           Converge IT & OT Networks
-
+---
 + ### RELY-TSN-PCIe
 	+ **Relyum**
 		+ https://www.hkaco.com/embeded/relyum/products/RELY-PCIe-NIC-Family/rely-tsn-lp-pcie.html
