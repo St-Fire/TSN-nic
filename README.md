@@ -13,6 +13,7 @@ LEDs for Link, Speed, activity
 	+ **SHOCK**
 	+ **BOARD SIZE**
 	+ **BRACKET OPTIONS**
+		+ Standard and low profi le, 2 and 4 ports
 	+ **MOUNTING**
 		+ PCIe Interface card
 	+ **ALTITUDE**
@@ -25,6 +26,8 @@ LEDs for Link, Speed, activity
 	+ ## software
 	+ **PROCESSOR** 
 		+ Intel® Cyclone V, fi eld upgradeable
+	+ SWITCH OPERATION 
+		+ Cut through, StoreAndForward
 	+ **SOFTWARE SUPPORT**
 		+ Linux Kernel device drivers, TSN Software stacks
 	+ **VERIFIED OS**
