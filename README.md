@@ -99,7 +99,7 @@ Enhancements for Time-Sensitive Streams
 		+ IEEE 802.1Qci* – Per-Stream Filtering and Policing 
 		+ IEEE 802.1CB* – Frame Replication and Elimination for Reliability 
 		+ IEEE 802.1Qbu* & IEEE 802.3br* – Frame Replication and Elimination for Reliability
-	+ ** Software features **
+	+ **Software features**
 		+  Ethernet network drivers available for most OS:
 			+ Linux, Windows, VxWorks, etc.
 	+ **Processing performance**
