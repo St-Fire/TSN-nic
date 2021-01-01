@@ -27,7 +27,7 @@ LEDs for Link, Speed, activity
 	+ ## software
 	+ **PROCESSOR** 
 		+ Intel® Cyclone V, fi eld upgradeable
-	+ SWITCH OPERATION 
+	+ **SWITCH OPERATION** 
 		+ Cut through, StoreAndForward
 	+ **SOFTWARE SUPPORT**
 		+ Linux Kernel device drivers, TSN Software stacks
@@ -56,7 +56,7 @@ LEDs for Link, Speed, activity
 	+ **One Pulse Per Second (PPS) output**
 	+ **Support PCI Express x1 slot, Standard profile bracket**
 	+ **Operating Temperature Range: -40 to +85°C**
-	+ ##software
+	+ ## software
 	+ **TSN Gigabit Ethernet Switch**
 		+ Support TSN Timing and Synchronization for Time-Sensitive
 Applications compliant to IEEE 802.1AS-Rev/AS, and IEEE
