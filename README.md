@@ -84,7 +84,7 @@ compliant to IEEE 802.1Qci
           Converge IT & OT Networks
 ---
 + ### RELY-TSN-PCIe
-	+ **Relyum**
+	+ **hongke**
 		+ https://www.hkaco.com/embeded/relyum/products/RELY-PCIe-NIC-Family/rely-tsn-lp-pcie.html
 	+ ## hardware
 	+ **Communication**
