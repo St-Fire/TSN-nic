@@ -2,7 +2,7 @@
 
 + ### PCIE-0400-TSN
 	+ **kontron**
-		+ https://www.kontron.com/downloads/datasheets/p/pcie-0400-tsn_20180227_datasheet.pdf?product=151637
+		+ https://www.kontron.com/products/systems/ethernet-solutions/network-interfaces-tsn/pcie-0400-tsn-network-interface-card.html
 	+ ## hardware
 	+ **INTERFACES**
 		+ 4 port 10/100/1000 Ethernet, RJ45
