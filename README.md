@@ -94,7 +94,7 @@ compliant to IEEE 802.1Qci
 			+ 100Base-FX • RSTP IEEE802.1w
 	+ **Processing performance**
 		+ On-board UltraScale™ FPGA for high-speed network switching
-	+ ##software
+	+ ## software
 	+ **Communication**
 		+ LLDP support 
 		+ VLAN support 
@@ -112,7 +112,7 @@ Enhancements for Time-Sensitive Streams
 		+ IEEE 802.1Qci* – Per-Stream Filtering and Policing 
 		+ IEEE 802.1CB* – Frame Replication and Elimination for Reliability 
 		+ IEEE 802.1Qbu* & IEEE 802.3br* – Frame Replication and Elimination for Reliability
-	+ ** Software features **
+	+ **Software features**
 		+  Ethernet network drivers available for most OS:
 			+ Linux, Windows, VxWorks, etc.
 	+ **Processing performance**
