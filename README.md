@@ -14,6 +14,7 @@ LEDs for Link, Speed, activity
 	+ **SHOCK**
 		+ 15 G 11 ms duration (half sine) (tbc)
 	+ **BOARD SIZE**
+		+ Half size, low profile Standard and low profi le front brackets
 	+ **BRACKET OPTIONS**
 		+ Standard and low profi le, 2 and 4 ports
 	+ **MOUNTING**
@@ -24,6 +25,7 @@ LEDs for Link, Speed, activity
 		+ 10-500 Hz: 1G/3 axis (tbc)
 	+ **OPERATING TEMPERATURE**
 	+ **HUMIDITY**
+		+ 10 % - 90 % @ 39 °C, non condensing
 	+ **MTBF**
 		+  50.000 h (tbc)
 	+ ## software
