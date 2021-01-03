@@ -12,6 +12,7 @@ LEDs for Link, Speed, activity
 	+ **EMC**
 		+ EN55022 class B
 	+ **SHOCK**
+		+ 15 G 11 ms duration (half sine) (tbc)
 	+ **BOARD SIZE**
 	+ **BRACKET OPTIONS**
 		+ Standard and low profi le, 2 and 4 ports
