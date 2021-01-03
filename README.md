@@ -19,6 +19,7 @@ LEDs for Link, Speed, activity
 	+ **MOUNTING**
 		+ PCIe Interface card
 	+ **ALTITUDE**
+		Up to 10.000 ft (3.000 m)
 	+ **VIBRATION,CCORDING TO EN 60068-2-6**
 		+ 10-500 Hz: 1G/3 axis (tbc)
 	+ **OPERATING TEMPERATURE**
